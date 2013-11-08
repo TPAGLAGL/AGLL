@@ -1,0 +1,10 @@
+data/manifest.mf.i
+data/nbproject/build-impl.xml.i
+data/nbproject/project.properties.i
+data/build.xml.i
+data/src/sudoku/Grid.java.i
+data/src/sudoku/InferfaceGraphique.java.i
+data/nbproject/project.xml.i
+data/nbproject/genfiles.properties.i
+data/.hgignore.i
+data/src/sudoku/SudokuSolver.java.i
